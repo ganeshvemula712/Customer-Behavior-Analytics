@@ -123,6 +123,6 @@ Ganesh Vemula
 
 Aspiring Data Analyst | Data Science Student
 
-LinkedIn: ([Add your LinkedIn profile link](https://www.linkedin.com/in/ganesh-vemula-951833303?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+LinkedIn: (https://www.linkedin.com/in/ganesh-vemula-951833303?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 GitHub: https://github.com/ganeshvemula712
